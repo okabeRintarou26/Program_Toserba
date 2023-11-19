@@ -1,16 +1,16 @@
 # Program Toserba Dengan C++
 # Hasil Tampilan
 ## MENU AWAL
-![img](https://github.com/okabeRintarou26/Program_Admin_Toko/blob/main/img/menu%20login.png?raw=true)
+![img](https://github.com/okabeRintarou26/Program_Toserba/blob/main/img/menu%20login.png?raw=true)
 ## MENU ADMIN
 ADMIN DEFAULT
 username : adzhar
 password : adzhar
 
-![img](https://github.com/okabeRintarou26/Program_Admin_Toko/blob/main/img/menu%20admin.png?raw=true)
+![img](https://github.com/okabeRintarou26/Program_Toserba/blob/main/img/menu%20admin.png?raw=true)
 
 ## MENU PEGAWAI
-![img](https://github.com/okabeRintarou26/Program_Admin_Toko/blob/main/img/menu%20pegawai.png?raw=true)
+![img](https://github.com/okabeRintarou26/Program_Toserba/blob/main/img/menu%20pegawai.png?raw=true)
 
 '''
 ## Thanks! I'm social!
